@@ -1,0 +1,6 @@
+{
+  "name": "3D Interactive Portfolio Playground",
+  "description": "An interactive 3D WebGL diorama portfolio inspired by Bruno Simon, featuring a drivable RC monster truck, physics collisions, project showcases, interactive skill blocks, sound effects, and minimap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
